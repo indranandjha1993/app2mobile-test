@@ -24,6 +24,7 @@
 <h3>For API</h3>
 <p>API endpoints:-</p>
 <ol>
+  <li>api/auth/register</li>
   <li>api/auth/login</li>
   <li>api/auth/logout</li>
   <li>api/auth/refresh</li>
